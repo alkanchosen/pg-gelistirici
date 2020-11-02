@@ -102,14 +102,24 @@ Output kısmına ise web, pdf yazılır ve oluşturulan metin, dosyanın istenil
 ### 3. Sayfa Düzenleme
 
 1. Sayfa düzenlemek için her sayfanın başında Düzenle butonu bulunmaktadır. Düzenlemek istenilen sayfada bu butona basılır.
-![alt text][logo]
+![Düzenle](https://github.com/alkanchosen/pg-gelistirici/blob/gh-pages/contribution_images/1.jpg)
+
 2. Sayfa açıldıktan sonra sağ üstteki kalem ikonuna basılır.
-![alt text][logo]
+![Kalem](https://github.com/alkanchosen/pg-gelistirici/blob/gh-pages/contribution_images/2.jpg)
+
 3. Metin editörü açıldıktan sonra istenilen değişiklikler yapılır. Bu değişikliklerin önizlemesi üstte bulunan *Preview Changes* kısmında görülebilir.
-![alt text][logo]
+![Preview Changes](https://github.com/alkanchosen/pg-gelistirici/blob/gh-pages/contribution_images/3.jpg)
+
 4. Değişiklikler yapıldıktan sonra açıklayıcı bir mesaj yazılır ve *Propose Changes* butonuna basılır.
-![alt text][logo]
-5. Yapılan değişiklikler **proje yöneticisi** tarafından duruma göre kabul edilir veya geri çevrilir.
+![Propose Changes](https://github.com/alkanchosen/pg-gelistirici/blob/gh-pages/contribution_images/4.jpg)
+
+5. Açılan sayfada *Create Pull Request" butonuna basılır.
+![Create Pull Request](https://github.com/alkanchosen/pg-gelistirici/blob/gh-pages/contribution_images/5.jpg)
+
+6. Açılan pull request sayfasında *Create Pull Request" butonuna basılır ve değişiklikler proje yöneticisine gönderilir.
+![Send Request](https://github.com/alkanchosen/pg-gelistirici/blob/gh-pages/contribution_images/6.jpg)
+
+7. Yapılan değişiklikler **proje yöneticisi** tarafından duruma göre kabul edilir veya geri çevrilir.
 
 
 ### 4. Markdown Rehberi
